@@ -196,6 +196,8 @@ Oddly enough if you run into any routing issues because of duplicate address det
 
 The completed `all.yml` vars file and generated inventory files following this section only reflect that of an ipv4 connected install. If you previously deployed ipv4 stop and remove all containers off the bastion and rerun the `setup-bastion.yml` playbook.
 
+For the disk size, you will need in this particular case (ipv6 and disconnected registry) at least 70GB disk space in your root partition in the bastion machine.
+
 ## Review all.yml
 
 The `ansible/vars/all.yml` now resembles ..

@@ -28,9 +28,10 @@ The listed hardware has been used for cluster deployments successfully. Potentia
 
 **Alias Lab**
 
-| Hardware | BM  | RWN | SNO |
-| -------- | --- | --- | --- |
-| 740xd    | No  | No  | Yes |
+| Hardware  | BM  | RWN | SNO |
+| --------- | --- | --- | --- |
+| 740xd     | No  | No  | Yes |
+| Dell r750 | No  | No  | Yes |
 
 **Scale Lab**
 
